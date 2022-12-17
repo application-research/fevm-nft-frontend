@@ -1,0 +1,14 @@
+@import "react-stacked-carousel/dist/index.css";
+
+* {
+  box-sizing: border-box;
+  transition: all 360ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+body {
+  margin: 0;
+  font-family: Nasalization;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}

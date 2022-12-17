@@ -118,7 +118,7 @@ export default () => {
         <Title>Estuary721 - Collections!</Title>
         <Sub>View your minted tokens!</Sub>
       </Head>
-        <Sub>Once I figured it out. Your token and image will show here!</Sub>
+        <Sub>This is still a WIP</Sub>
       {
         <Listings>
           {((tokenList.length && tokenList) || []).map(
